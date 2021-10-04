@@ -20,4 +20,4 @@ def stock_list(listOfArt, listOfCat) :
 
 b = ["ABAR 200", "CDXE 500", "BKWR 250", "BTSQ 890", "DRTY 600", "CCOK 215", "NGUEN 1255"]
 c = ["A", "B"]
-print(stock_list(b, c))
+print(stock_list(b, c)) # (A : 200) - (B : 1140)

@@ -9,3 +9,7 @@ def bowling_pins(arr) :
     return pins.format(*(" " if i in arr else "I" for i in range(11)))
 
 print(bowling_pins([5]))
+# I I I I
+#  I   I
+#   I I
+#    I

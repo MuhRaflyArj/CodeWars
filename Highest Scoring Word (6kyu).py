@@ -10,4 +10,5 @@ def high(x):
     return x[count.index(a[-1])]
 
 
-print(high('what time are we climbing up the volcano'))
+print(high('what time are we climbing up the volcano')) # volcano
+print(high('man i need a taxi up to ubud')) #taxi
